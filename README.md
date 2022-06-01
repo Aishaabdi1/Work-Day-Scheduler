@@ -14,4 +14,13 @@ SO THAT I can manage my time effectively
 
 Deployed URL:
 
-Enjoy being more organised!
+Enjoy being more productive!
+
+Features
+
+HTML
+CSS
+Bootstrap
+jQuery
+Moment.js
+
